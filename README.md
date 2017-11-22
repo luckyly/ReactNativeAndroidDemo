@@ -9,15 +9,15 @@
 
 android       android源码
 
-node_modules     react、reactnative
+node_modules     react、reactnative环境
 
 index.js      reactnative入口文件，低版本是index.android.js
 
 index.android.js    reactnative入口文件，
 
-package.json   
+package.json   配置文件
 
-README.md  
+README.md  文档说明
 
 效果演示：
 
