@@ -1,14 +1,27 @@
 #ReactNativeAndroid
-ÕâÊÇÒ»¸ö¼òµ¥µÄ½«ReactNative¼¯³Éµ½Ô­ÉúÏîÄ¿AndroidµÄdemo¡£
-Ä¿Â¼ËµÃ÷£º
-android     androidÔ´Âë
-node_modules  react¡¢reactnative
-index.js      reactnativeÈë¿ÚÎÄ¼ş£¬µÍ°æ±¾ÊÇindex.android.js
-index.android.js  reactnativeÈë¿ÚÎÄ¼ş£¬
+
+
+è¿™æ˜¯ä¸€ä¸ªç®€å•çš„å°†ReactNativeé›†æˆåˆ°åŸç”Ÿé¡¹ç›®Androidçš„demoã€‚
+
+
+ç›®å½•è¯´æ˜ï¼š
+
+
+android       androidæºç 
+
+node_modules     reactã€reactnative
+
+index.js      reactnativeå…¥å£æ–‡ä»¶ï¼Œä½ç‰ˆæœ¬æ˜¯index.android.js
+
+index.android.js    reactnativeå…¥å£æ–‡ä»¶ï¼Œ
+
 package.json   
+
 README.md  
 
-Ğ§¹ûÑİÊ¾£º
+æ•ˆæœæ¼”ç¤ºï¼š
 
-1.ÔÚ¸ùÄ¿Â¼ÏÂÖ´ĞĞnpm start £»
-2.°²×°apk(apkÂ·¾¶£º/android/app/app-release.apk)»òµ¼Èëandroidµ½androidstudio´ò°üÔËĞĞ¡£
+1.åœ¨æ ¹ç›®å½•ä¸‹æ‰§è¡Œnpm start ï¼›
+
+
+2.å®‰è£…apk(apkè·¯å¾„ï¼š/android/app/app-release.apk)æˆ–å¯¼å…¥androidåˆ°androidstudioæ‰“åŒ…è¿è¡Œã€‚
